@@ -6,7 +6,7 @@ Repositório em processo de construção e melhoramento.
 
 Bem vinda(o) ao meu repositório de estudos em Banco de Dados.
 
-Estarei registrando aqui o meu desenvolvimento entendimentos a respeito dos conteúdos abordados em minhas aulas da faculdade e irei e adicionalmente, irei linkar conteúdos externos como newsletters, artigos, blogs, podcasts, livros, entre outros, como uma fonte de pesquisas adicional.
+Estarei registrando aqui o meu desenvolvimento entendimentos a respeito dos conteúdos abordados em minhas aulas da faculdade. Irei linkar conteúdos externos como newsletters, artigos, blogs, podcasts, livros, entre outros, como uma fonte de pesquisas adicional.
 
 As ferramentas e linguagens utilizadas nessa matéria até agora são:
 
