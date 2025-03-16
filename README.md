@@ -2,7 +2,7 @@
 
 Repositório em processo de construção e melhoramento.
 
-![Fundamentos de Banco de Dados]("./css/assets/fundamentos-de-data-science-banner.png")
+![Fundamentos de Banco de Dados](./css/assets/fundamentos-de-data-science-banner.png)
 
 Bem vinda(o) ao meu repositório de estudos em Banco de Dados.
 
