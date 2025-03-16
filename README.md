@@ -2,10 +2,11 @@
 
 Repositório em processo de construção e melhoramento.
 
-![Fundamentos de Banco de Dados]("caminhoHeader")
+![Fundamentos de Banco de Dados]("./css/assets/fundamentos-de-data-science-banner.png")
 
 Bem vinda(o) ao meu repositório de estudos em Banco de Dados.
-Os assuntos serão seguidos de acordo com minhas aulas da faculdade e irei desenvolver os meus entendimentos a respeito do conteúdo abordado, sem deixar de pesquisar em conteúdos externos como newsletters, artigos, blogs, podcasts, livros, entre outros. 
+
+Estarei registrando aqui o meu desenvolvimento entendimentos a respeito dos conteúdos abordados em minhas aulas da faculdade e irei e adicionalmente, irei linkar conteúdos externos como newsletters, artigos, blogs, podcasts, livros, entre outros, como uma fonte de pesquisas adicional.
 
 As ferramentas e linguagens utilizadas nessa matéria até agora são:
 
