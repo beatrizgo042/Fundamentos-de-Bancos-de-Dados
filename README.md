@@ -29,15 +29,16 @@ As ferramentas e linguagens utilizadas nessa matéria até agora são:
 <br></br>
 ## 🎲 Aula Um - Fundamentos de Banco de Dados
 
-DataBase Fundamentals
-Concept Model with Enttity-Relationship Model
-Logic Model
+Na primeira aula tivemos os assuntos:
 
-- Fundamentals;
+- Fundamentos;
 - SGBDs;
-- Data models;
-- Entity Relationship Model;
-- Cardinality;
+- Modelos de Dados;
+- Modelo Entidade-Relacionamento;
+- Cardinalidade.
+
+Existem
+
 <br></br>
 
 ## 💻 Aula Dois - Modelagem de Banco de Dados
